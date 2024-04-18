@@ -1,6 +1,6 @@
 //please use your path directory for the wine-data
-import wineData from "/home/ravi/Downloads/ninja/Test-new/yarn-app/wine-app/src/Wine-Data.json";
-
+//import wineData from "/home/ravi/Downloads/ninja/Test-new/yarn-app/wine-app/src/Wine-Data.json";
+import wineData from "./Wine-Data.json"
 import React, { useState } from "react";
 import Table1 from "./components/table1";
 import { createTheme, MantineProvider } from "@mantine/core";
