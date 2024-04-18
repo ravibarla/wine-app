@@ -1,3 +1,4 @@
+//please use your path directory for the wine-data
 import wineData from "/home/ravi/Downloads/ninja/Test-new/yarn-app/wine-app/src/Wine-Data.json";
 
 import React, { useState } from "react";
